@@ -1,3 +1,7 @@
+# Store Data Report
+This repository contains an Excel-based sales data analysis for multiple stores, offering insights into key sales metrics such as product performance, regional sales, and trends over time.
+
+
 **Sample Insigths :**
 
 * Womwn are more likely to buy compared to men (~ 64%).
