@@ -1,1 +1,14 @@
-Dashboard
+**Sample Insigths :**
+
+* Womwn are more likely to buy compared to men (~ 64%).
+* Maharashtra , karnataka and Uttar Pradesh are top 3.
+* Adult Age Group (30-49 years) is max contributing (~ 40%).
+* Amazone, Flipkart and Myntra Channels are Max contruting (~ 70 %).
+
+
+**Final Conclusion to Improve Sales Store :**
+
+Target Womwn Customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh 
+by showing ads/offers/coupons avilable on Amazone, Flipkart and Myntra.
+
+[Dashboard link]()
