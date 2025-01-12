@@ -15,4 +15,4 @@ This repository contains an Excel-based sales data analysis for multiple stores,
 Target Womwn Customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradesh 
 by showing ads/offers/coupons avilable on Amazone, Flipkart and Myntra.
 
-[Dashboard link]()
+[Dashboard link](https://github.com/Suniljoshi-2003/Excel/blob/main/Sales%20Store%20data%20Project_xlsx.xlsx)
