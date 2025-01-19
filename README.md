@@ -92,7 +92,7 @@ This repository contains an **Excel-based Bike Sales Analysis Dashboard** design
 ---
 
 ## Dashboard Preview
-![Bike Sales Dashboard](
+![Bike Sales Dashboard](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/bike%20sales%20dashbord.jpg)
 ---
 
 ## 📂 File Details
