@@ -29,6 +29,8 @@ This repository contains an **Excel-based Sales Store Data Analysis Project** th
   - PivotCharts and Slicers.
   - Data validation and filtering.
 
+## Dashboard Preview
+![Sales Stroe data report Dashboard](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/sales%20store%20data%20report%20dashboard%20excel%20.png)
 ---
 
 ## 📂 File Details
@@ -60,14 +62,7 @@ I’m passionate about **data analytics** and creating impactful visualizations.
 If you found this project helpful, please give it a ⭐️ and share your feedback. Suggestions are always welcome! 😊
 
 
-
-
-
-
-
-
-
-
+---
 
 # Coffee Shop Sales Dashboard ☕
 
