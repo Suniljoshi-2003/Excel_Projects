@@ -42,7 +42,7 @@ This repository contains a **Coffee Shop Sales Dashboard**, created entirely usi
 - **Functions and Features**: Pivot Tables, Charts, Slicers, Conditional Formatting.
 
 ## Dashboard Preview
-![Coffee Shop Dashboard](./coffee%20shop%20dashbord.jpg)
+![Coffee Shop Dashboard](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/coffee%20shop%20dashboard.jpg)
 
 
 ## 📂 File Details
