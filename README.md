@@ -183,3 +183,69 @@ If you have any suggestions or feedback, please feel free to create an issue or 
 ### 🚀 Let's Connect!
 If you like this project, don’t forget to give the repository a ⭐️!
 
+---
+
+# DMart Sales Dashboard 🛒  
+
+This repository contains a DMart Sales Dashboard, created entirely using Microsoft Excel. The dashboard provides detailed insights into sales performance, category trends, and key business metrics across various product lines.  
+
+---
+
+## 📊 Key Metrics and Insights  
+
+### Metrics  
+- **Total Sales**: ₹1,254,786.50  
+- **Total Quantity Sold**: 220 units  
+- **Average Price per Product**: ₹5,703.57  
+- **Top-Selling Categories**: Electronics, Accessories, and Furniture  
+
+### Insights  
+- **Peak Sales Period**: January and February saw the highest sales.  
+- **Top Products**: Laptops, Smartphones, and Headphones lead in sales.  
+- **Discount Impact**: Categories with higher discount rates, such as Furniture, performed better in terms of volume.  
+- **Inventory Levels**: Electronics have lower stock levels, indicating high demand.  
+
+---
+
+## 🛠 Tools Used  
+- **Microsoft Excel**: For data cleaning, analysis, and dashboard visualization.  
+- **Functions and Features**: Pivot Tables, Charts, Conditional Formatting, and Slicers.  
+
+## Dashboard Preview
+![DMart Sales]()
+---
+
+## 📂 File Details  
+- **`Dmart.xlsx`**: The Excel file containing the dashboard and underlying sales data.  
+- **`DMart sales Dashboard.jpg`**: A snapshot of the sales dashboard created in Excel for reference.  
+
+---
+
+## 🌟 Why This Project?  
+This project demonstrates the power of Microsoft Excel in creating detailed and actionable business dashboards. It showcases how retail businesses can use data to analyze performance and make informed decisions.  
+
+---
+
+## 📥 How to Use  
+1. Download the `Dmart.xlsx` file from this repository.  
+2. Open the file in Microsoft Excel (version 2016 or later recommended).  
+3. Explore the dashboard to analyze sales trends, product performance, and inventory insights.  
+4. Use filters and slicers to drill down into specific categories or timeframes.  
+
+---
+
+## 🤝 Connect with Me  
+I’m passionate about Data Analytics and creating insightful dashboards. Feel free to reach out or connect with me on LinkedIn:  
+**Sunil Chandra Joshi**  
+
+---
+
+## 📢 Feedback  
+If you have any suggestions or feedback, please feel free to create an issue or reach out. 😊  
+
+---  
+
+## 🚀 Let’s Connect!  
+If you like this project, don’t forget to give the repository a ⭐️!  
+
+
