@@ -212,7 +212,7 @@ This repository contains a DMart Sales Dashboard, created entirely using Microso
 - **Functions and Features**: Pivot Tables, Charts, Conditional Formatting, and Slicers.  
 
 ## Dashboard Preview
-![DMart Sales]()
+![DMart Sales](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/DMart%20sales%20Dashboard.jpg)
 ---
 
 ## 📂 File Details  
