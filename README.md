@@ -309,12 +309,12 @@ The Hospital Emergency Room Dashboard provides a comprehensive view of key perfo
 ---
 
 ## Dashboard Preview
-![Bike Sales Dashboard](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/bike%20sales%20dashbord.jpg)
+![Hospital Emergency Room](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/Hospital%20Emergency%20Room%20Dashboard.png)
 ---
 
 
 ## 📂 File Details
-- **[Coffee Sales.xlsx]()**: The Excel file containing the dashboard and underlying data.
+- **[Hospital Emergency Room]()**: The Excel file containing the dashboard and underlying data.
 
 ## 🤝 Connect with Me
 I’m passionate about **Data Analytics** and creating insightful dashboards. Feel free to reach out or connect with me on LinkedIn:  
