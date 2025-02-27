@@ -249,3 +249,77 @@ If you have any suggestions or feedback, please feel free to create an issue or 
 If you like this project, don’t forget to give the repository a ⭐️!  
 
 
+
+---
+
+
+# Hospital Emergency Room Dashboard
+
+ ## Overview
+
+The Hospital Emergency Room Dashboard provides a comprehensive view of key performance indicators (KPIs) for hospital emergency services. It includes metrics such as the number of patients, average wait time, patient satisfaction scores, admission status, patient demographics, and departmental referrals.
+
+## Features
+
+- Total Patients: Displays the total number of patients attended in a given month.
+
+- Average Wait Time: Shows the average time patients waited before being attended.
+
+- Patient Satisfaction Score: Measures patient feedback on the hospital's emergency services.
+
+- Admission Status: Breakdown of admitted vs. non-admitted patients.
+
+- Patient Attended Status: Percentage of on-time vs. delayed patient attendances.
+
+- Gender Distribution: Displays the male-to-female patient ratio.
+
+- Age Group Distribution: Categorization of patients by age groups.
+
+- Department Referral Analysis: Number of patients referred to different hospital departments.
+
+# Data Processing
+
+- Excel & Power Query: Used for data transformation, cleaning, and aggregation.
+
+# Usage
+
+- Load the hospital emergency room dataset into Excel.
+
+- Use Power Query to clean and transform the data.
+
+- Load the transformed data into Power BI or Tableau for visualization.
+
+- Select the desired month and year for analysis.
+
+- Interact with visual elements to gain insights into emergency room operations.
+
+- Use the insights to improve patient wait times, satisfaction, and resource allocation.
+
+# Future Enhancements
+
+- Integration with real-time hospital data.
+
+- Predictive analytics for patient wait times.
+
+- Enhanced filtering and drill-down capabilities.
+
+- Automated reporting and alerts for hospital management.
+
+
+---
+
+## Dashboard Preview
+![Bike Sales Dashboard](https://github.com/Suniljoshi-2003/Excel_Projects/blob/main/bike%20sales%20dashbord.jpg)
+---
+
+
+## 📂 File Details
+- **[Coffee Sales.xlsx]()**: The Excel file containing the dashboard and underlying data.
+
+## 🤝 Connect with Me
+I’m passionate about **Data Analytics** and creating insightful dashboards. Feel free to reach out or connect with me on LinkedIn:  
+[Sunil Chandra Joshi](https://www.linkedin.com/in/sunil-chandra-joshi/)  
+
+
+
+
